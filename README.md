@@ -1,5 +1,4 @@
 <h1 aling="left">Simon Game</h1>
-<hr />
 <p>
   <em
     >¿Te gustan los retos?, en este website encontrarás el clásico juego de
@@ -9,6 +8,7 @@
 </p>
 <a
   target="_blank"
+   aling="center"
   rel="noopener noreferrer nofollow"
   href="https://img-c.udemycdn.com/redactor/raw/2018-11-22_12-17-15-9e39ea8dd319de8b5a113e444a0d4262.gif"
 >
@@ -22,7 +22,6 @@
 </a>
 
 <h2>⚙Built with:</h2>
-<hr />
 <p>Para este sencillo juego se utilizo:</p>
 <ul>
   <li>
