@@ -8,7 +8,7 @@
 </p>
 <a
   target="_blank"
-   aling="center"
+   aling="middle"
   rel="noopener noreferrer nofollow"
   href="https://img-c.udemycdn.com/redactor/raw/2018-11-22_12-17-15-9e39ea8dd319de8b5a113e444a0d4262.gif"
 >
@@ -16,7 +16,7 @@
     src="https://img-c.udemycdn.com/redactor/raw/2018-11-22_12-17-15-9e39ea8dd319de8b5a113e444a0d4262.gif"
     alt="simongame"
     width="800"
-    aling="center"
+    aling="middle"
     style="max-width: 100%"
   />
 </a>
